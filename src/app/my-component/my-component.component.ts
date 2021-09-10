@@ -11,5 +11,5 @@ export class MyComponentComponent implements OnInit {
 
   ngOnInit() {
   }
-
+//this is a comment
 }
